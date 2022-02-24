@@ -17,15 +17,8 @@ My name is Tuan Anh and I'm a frontend developer. I'm from Vietnam, living in Ho
 
 
 ## &#x1f4c8; My Stats
-<a href="https://github.com/shoxie/shoxie">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shoxie" />
-</a>
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=21acs5sngq2xkehugtvqkwmuy&redirect=true">
-  <img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=21acs5sngq2xkehugtvqkwmuy&cover_image=true&theme=default" />
-</a>
-<a href="https://github.com/shoxie/shoxie">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Th1nhNg0&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=10&layout=compact" />
-</a>
+![](https://github.com/shoxie/git-stats/blob/master/generated/overview.svg)
+![](https://github.com/shoxie/git-stats/blob/master/generated/languages.svg)
 
 
 
