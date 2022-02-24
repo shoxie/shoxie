@@ -19,7 +19,8 @@ My name is Tuan Anh and I'm a frontend developer. I'm from Vietnam, living in Ho
 ## &#x1f4c8; My Stats
 ![](https://github.com/shoxie/git-stats/blob/master/generated/overview.svg)
 ![](https://github.com/shoxie/git-stats/blob/master/generated/languages.svg)
-![snake gif](https://github.com/shoxie/shoxie/blob/output/github-contribution-grid-snake.gif)
+
+![snake gif](https://github.com/shoxie/shoxie/blob/output/github-contribution-grid-snake.svg)
 
 <!-- 
 <a href="https://github.com/shoxie/shoxie">
