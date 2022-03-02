@@ -4,7 +4,9 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ![](https://komarev.com/ghpvc/?username=shoxie)
 
-My name is Tuan Anh and I'm a frontend developer. I'm currently living and working at Ho Chi Minh city, VietNam. You can contact me via  <a href="mailto:doctorwrose@gmail.com"> doctorwrose@gmail.com </a>
+> __*I think you’re my compiler. My life wouldn’t start if i'm not a frontend developer*__. 
+
+Hello, i'm Tuan Anh, i'm currently living and working at Ho Chi Minh city, VietNam. You can reach me via  <a href="mailto:doctorwrose@gmail.com"> doctorwrose@gmail.com </a>
 
 ## 🔧 Technologies & Tools
 
