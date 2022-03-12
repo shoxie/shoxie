@@ -6,7 +6,7 @@
 
 > __*I think you’re my compiler. My life wouldn’t start if i'm not a frontend developer*__. 
 
-Hello, i'm Tuan Anh, i'm currently living and working at Ho Chi Minh city, VietNam. You can reach me via  <a href="mailto:doctorwrose@gmail.com"> doctorwrose@gmail.com </a>
+Hello, i'm Tuan Anh, i'm currently living and working at Ho Chi Minh city, VietNam. You can reach me via  <a href="mailto:doctorwrose@gmail.com">Email</a>
 
 ## 🔧 Technologies & Tools
 
