@@ -1,5 +1,4 @@
 <!--<img align="right" alt="GIF" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="500" height="320" /> -->
-<a align="right" href="https://app.daily.dev/whiterosedev"><img src="https://api.daily.dev/devcards/cea408c0ae9642d68501d4e7353717c4.png?r=oiz" width="400" alt="Đào Tuấn Anh's Dev Card"/></a>
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ![](https://komarev.com/ghpvc/?username=shoxie)
@@ -7,6 +6,7 @@
 > __*I think you’re my compiler. My life wouldn’t start if i'm not a frontend developer*__. 
 
 Hello, i'm Tuan Anh, i'm currently living and working at Ho Chi Minh city, VietNam. You can reach me via  <a href="mailto:doctorwrose@gmail.com">Email</a>
+<a align="right" href="https://app.daily.dev/whiterosedev"><img src="https://api.daily.dev/devcards/cea408c0ae9642d68501d4e7353717c4.png?r=oiz" width="400" alt="Đào Tuấn Anh's Dev Card"/></a>
 
 ## 🔧 Technologies & Tools
 
