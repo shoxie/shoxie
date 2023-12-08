@@ -1,5 +1,5 @@
-<img align="right" alt="GIF" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="500" height="320" />
-
+<!--<img align="right" alt="GIF" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="500" height="320" /> -->
+<a href="https://app.daily.dev/whiterosedev"><img src="https://api.daily.dev/devcards/cea408c0ae9642d68501d4e7353717c4.png?r=oiz" width="400" alt="Đào Tuấn Anh's Dev Card"/></a>
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ![](https://komarev.com/ghpvc/?username=shoxie)
